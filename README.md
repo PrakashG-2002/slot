@@ -152,7 +152,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot 2023-11-14 175539.png>)
+<img width="960" alt="Screenshot 2023-11-14 175539" src="https://github.com/PrakashG-2002/slot/assets/144507749/99fb308f-dec9-40c0-9862-40521bfe1121">
+
 
 
 ## RESULT
