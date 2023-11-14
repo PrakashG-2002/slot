@@ -152,6 +152,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
+<img width="960" alt="web slot screen shot" src="https://github.com/PrakashG-2002/slot/assets/144507749/bf5ec663-dc0f-4cd4-bd0a-4ab210fa0bfa">
 
 
 
